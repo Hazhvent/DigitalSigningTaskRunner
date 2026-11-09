@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../DigitalSigningTaskRunner.Application/DigitalSigningTaskRunner.Application.csproj" />
+  <Project Path="../DigitalSigningTaskRunner.Core/DigitalSigningTaskRunner.Core.csproj" />
+  <Project Path="../DigitalSigningTaskRunner.Infrastructure/DigitalSigningTaskRunner.Infrastructure.csproj" />
+  <Project Path="DigitalSigningTaskRunner.csproj" />
+</Solution>
